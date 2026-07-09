@@ -87,8 +87,8 @@ app/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/redis-clone.git
-cd redis-clone
+git clone https://github.com/<your-username>/high-performance-distributed-key-value-store.git
+cd high-performance-distributed-key-value-store
 ```
 
 ### Install dependencies
